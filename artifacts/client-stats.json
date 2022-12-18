@@ -2,24 +2,24 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "f04eb0cad87e4e1aae58",
-  "time": 3012,
-  "builtAt": 1671399413610,
+  "hash": "3448c839815f13556bbb",
+  "time": 3305,
+  "builtAt": 1671402631945,
   "publicPath": "/",
   "outputPath": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\dist",
   "assetsByChunkName": {
     "__react_static_root__/node_modules/react-static/lib/browser/components/Default404": "templates/__react_static_root__/node_modules/react-static/lib/browser/components/Default404.9505d442.js",
-    "main": "main.40da1e2c.js",
+    "main": "main.818bde04.js",
     "styles": [
-      "styles.931dc838.css",
-      "templates/styles.af8f7629.js"
+      "styles.140e5dab.css",
+      "templates/styles.2face7ba.js"
     ],
     "vendors~main": "templates/vendors~main.a522b03a.js"
   },
   "assets": [
     {
-      "name": "main.40da1e2c.js",
-      "size": 5857,
+      "name": "main.818bde04.js",
+      "size": 5860,
       "chunks": [
         1
       ],
@@ -40,7 +40,7 @@
       "emitted": true
     },
     {
-      "name": "styles.931dc838.css",
+      "name": "styles.140e5dab.css",
       "size": 687,
       "chunks": [
         2
@@ -68,7 +68,7 @@
       "emitted": true
     },
     {
-      "name": "templates/styles.af8f7629.js",
+      "name": "templates/styles.2face7ba.js",
       "size": 82,
       "chunks": [
         2
@@ -105,10 +105,10 @@
         1
       ],
       "assets": [
-        "styles.931dc838.css",
-        "templates/styles.af8f7629.js",
+        "styles.140e5dab.css",
+        "templates/styles.2face7ba.js",
         "templates/vendors~main.a522b03a.js",
-        "main.40da1e2c.js"
+        "main.818bde04.js"
       ],
       "children": {},
       "childAssets": {}
@@ -122,10 +122,10 @@
         1
       ],
       "assets": [
-        "styles.931dc838.css",
-        "templates/styles.af8f7629.js",
+        "styles.140e5dab.css",
+        "templates/styles.2face7ba.js",
         "templates/vendors~main.a522b03a.js",
-        "main.40da1e2c.js"
+        "main.818bde04.js"
       ],
       "children": {},
       "childAssets": {}
@@ -249,14 +249,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 4917,
+      "size": 4920,
       "names": [
         "main"
       ],
       "files": [
-        "main.40da1e2c.js"
+        "main.818bde04.js"
       ],
-      "hash": "1812be6c20086a142e2a",
+      "hash": "d8efc5a46cdc6dfd44ac",
       "siblings": [
         2,
         3
@@ -273,7 +273,7 @@
           "name": "C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/App.js",
           "index": 94,
           "index2": 101,
-          "size": 2102,
+          "size": 2105,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -351,7 +351,7 @@
           ],
           "optimizationBailout": [],
           "depth": 3,
-          "source": "import _classCallCheck from\"@babel/runtime/helpers/classCallCheck\";import _createClass from\"@babel/runtime/helpers/createClass\";import _inherits from\"@babel/runtime/helpers/inherits\";import _possibleConstructorReturn from\"@babel/runtime/helpers/possibleConstructorReturn\";import _getPrototypeOf from\"@babel/runtime/helpers/getPrototypeOf\";function _createSuper(Derived){var hasNativeReflectConstruct=_isNativeReflectConstruct();return function _createSuperInternal(){var Super=_getPrototypeOf(Derived),result;if(hasNativeReflectConstruct){var NewTarget=_getPrototypeOf(this).constructor;result=Reflect.construct(Super,arguments,NewTarget);}else{result=Super.apply(this,arguments);}return _possibleConstructorReturn(this,result);};}function _isNativeReflectConstruct(){if(typeof Reflect===\"undefined\"||!Reflect.construct)return false;if(Reflect.construct.sham)return false;if(typeof Proxy===\"function\")return true;try{Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],function(){}));return true;}catch(e){return false;}}import React,{Component}from'react';import'./app.css';import logo from'./logo.png';var App=/*#__PURE__*/function(_Component){_inherits(App,_Component);var _super=_createSuper(App);function App(){_classCallCheck(this,App);return _super.apply(this,arguments);}_createClass(App,[{key:\"render\",value:function render(){return/*#__PURE__*/React.createElement(\"div\",{className:\"App\"},/*#__PURE__*/React.createElement(\"header\",{className:\"App-header\"},/*#__PURE__*/React.createElement(\"img\",{src:logo,className:\"App-logo\",alt:\"logo\"}),/*#__PURE__*/React.createElement(\"p\",null,\"Edit \",/*#__PURE__*/React.createElement(\"code\",null,\"src/App.js\"),\" and save to reload.\"),/*#__PURE__*/React.createElement(\"span\",null,\"Learn\",' ',/*#__PURE__*/React.createElement(\"a\",{className:\"App-link\",href:\"https://reactjs.org\",target:\"_blank\",rel:\"noopener noreferrer\"},\"React\"),' ',\"and\",' ',/*#__PURE__*/React.createElement(\"a\",{className:\"App-link\",href:\"https://react-static.js.org\",target:\"_blank\",rel:\"noopener noreferrer\"},\"React Static\"))));}}]);return App;}(Component);export default App;"
+          "source": "import _classCallCheck from\"@babel/runtime/helpers/classCallCheck\";import _createClass from\"@babel/runtime/helpers/createClass\";import _inherits from\"@babel/runtime/helpers/inherits\";import _possibleConstructorReturn from\"@babel/runtime/helpers/possibleConstructorReturn\";import _getPrototypeOf from\"@babel/runtime/helpers/getPrototypeOf\";function _createSuper(Derived){var hasNativeReflectConstruct=_isNativeReflectConstruct();return function _createSuperInternal(){var Super=_getPrototypeOf(Derived),result;if(hasNativeReflectConstruct){var NewTarget=_getPrototypeOf(this).constructor;result=Reflect.construct(Super,arguments,NewTarget);}else{result=Super.apply(this,arguments);}return _possibleConstructorReturn(this,result);};}function _isNativeReflectConstruct(){if(typeof Reflect===\"undefined\"||!Reflect.construct)return false;if(Reflect.construct.sham)return false;if(typeof Proxy===\"function\")return true;try{Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],function(){}));return true;}catch(e){return false;}}import React,{Component}from'react';import'./app.css';import logo from'./logo.png';var App=/*#__PURE__*/function(_Component){_inherits(App,_Component);var _super=_createSuper(App);function App(){_classCallCheck(this,App);return _super.apply(this,arguments);}_createClass(App,[{key:\"render\",value:function render(){return/*#__PURE__*/React.createElement(\"div\",{className:\"App\"},/*#__PURE__*/React.createElement(\"header\",{className:\"App-header\"},/*#__PURE__*/React.createElement(\"img\",{src:logo,className:\"App-logo\",alt:\"logo\"}),/*#__PURE__*/React.createElement(\"p\",null,\"Edit \",/*#__PURE__*/React.createElement(\"code\",null,\"src/App.js\"),\" CHANGING THIS TO TEST.\"),/*#__PURE__*/React.createElement(\"span\",null,\"Learn\",' ',/*#__PURE__*/React.createElement(\"a\",{className:\"App-link\",href:\"https://reactjs.org\",target:\"_blank\",rel:\"noopener noreferrer\"},\"React\"),' ',\"and\",' ',/*#__PURE__*/React.createElement(\"a\",{className:\"App-link\",href:\"https://react-static.js.org\",target:\"_blank\",rel:\"noopener noreferrer\"},\"React Static\"))));}}]);return App;}(Component);export default App;"
         },
         {
           "id": 40,
@@ -717,15 +717,15 @@
       "initial": true,
       "entry": false,
       "reason": "split chunk (cache group: styles) (name: styles)",
-      "size": 1314,
+      "size": 1362,
       "names": [
         "styles"
       ],
       "files": [
-        "styles.931dc838.css",
-        "templates/styles.af8f7629.js"
+        "styles.140e5dab.css",
+        "templates/styles.2face7ba.js"
       ],
-      "hash": "ebe1256f470a03e3c1fb",
+      "hash": "3f509535b957d09608e1",
       "siblings": [
         1,
         3
@@ -796,7 +796,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 4,
-          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1671399412599\n      var cssReload = require(\"C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1671402630563\n      var cssReload = require(\"C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
         },
         {
           "id": "",
@@ -804,7 +804,7 @@
           "name": "css C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-2-1!C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/node_modules/postcss-loader/src??postcss!C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/app.css",
           "index": 103,
           "index2": 98,
-          "size": 873,
+          "size": 921,
           "built": false,
           "optional": false,
           "prefetched": false,
@@ -1001,7 +1001,7 @@
               "moduleName": "C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/App.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "1:1702-1707"
+              "loc": "1:1705-1710"
             },
             {
               "moduleId": 7,
@@ -1010,7 +1010,7 @@
               "moduleName": "C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/App.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "1:1759-1764"
+              "loc": "1:1762-1767"
             },
             {
               "moduleId": 7,
@@ -1019,7 +1019,7 @@
               "moduleName": "C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/App.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "1:1911-1916"
+              "loc": "1:1914-1919"
             },
             {
               "moduleId": 7,
@@ -1028,7 +1028,7 @@
               "moduleName": "C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/App.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "1:2072-2081"
+              "loc": "1:2075-2084"
             },
             {
               "moduleId": 10,
@@ -1426,9 +1426,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -1903,9 +1903,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -2008,9 +2008,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -2402,9 +2402,9 @@
           "chunks": [
             3
           ],
-          "issuer": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "issuerId": 44,
-          "issuerName": "../lib/bootstrapPlugins.js",
+          "issuer": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "issuerId": 80,
+          "issuerName": "../lib/bootstrapTemplates.js",
           "issuerPath": [
             {
               "id": 43,
@@ -2412,9 +2412,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             }
           ],
           "failed": false,
@@ -2473,9 +2473,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -2539,9 +2539,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -2610,9 +2610,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -2686,9 +2686,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -2752,9 +2752,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -2818,9 +2818,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -2894,9 +2894,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -3046,9 +3046,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -3127,9 +3127,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -3208,9 +3208,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -3294,9 +3294,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -3370,9 +3370,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -3446,9 +3446,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -4486,9 +4486,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -4548,9 +4548,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -4610,9 +4610,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -4672,9 +4672,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -4734,9 +4734,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -4791,9 +4791,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -4853,9 +4853,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -4915,9 +4915,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -4977,9 +4977,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5034,9 +5034,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5096,9 +5096,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5163,9 +5163,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5235,9 +5235,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5307,9 +5307,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5384,9 +5384,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5456,9 +5456,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5533,9 +5533,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5610,9 +5610,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5687,9 +5687,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5769,9 +5769,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5851,9 +5851,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -5928,9 +5928,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -6005,9 +6005,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -6077,9 +6077,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -6174,9 +6174,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -6241,9 +6241,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -6308,9 +6308,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -6375,9 +6375,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -6432,9 +6432,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -6566,9 +6566,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -6631,9 +6631,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -6703,9 +6703,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -6760,9 +6760,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 44,
-              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 80,
+              "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 13,
@@ -8323,7 +8323,7 @@
           "moduleName": "C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/App.js",
           "type": "harmony import specifier",
           "userRequest": "react",
-          "loc": "1:1702-1707"
+          "loc": "1:1705-1710"
         },
         {
           "moduleId": 7,
@@ -8332,7 +8332,7 @@
           "moduleName": "C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/App.js",
           "type": "harmony import specifier",
           "userRequest": "react",
-          "loc": "1:1759-1764"
+          "loc": "1:1762-1767"
         },
         {
           "moduleId": 7,
@@ -8341,7 +8341,7 @@
           "moduleName": "C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/App.js",
           "type": "harmony import specifier",
           "userRequest": "react",
-          "loc": "1:1911-1916"
+          "loc": "1:1914-1919"
         },
         {
           "moduleId": 7,
@@ -8350,7 +8350,7 @@
           "moduleName": "C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/App.js",
           "type": "harmony import specifier",
           "userRequest": "react",
-          "loc": "1:2072-2081"
+          "loc": "1:2075-2084"
         },
         {
           "moduleId": 10,
@@ -8748,9 +8748,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -9225,9 +9225,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -9312,7 +9312,7 @@
       "name": "C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/App.js",
       "index": 94,
       "index2": 101,
-      "size": 2102,
+      "size": 2105,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -9390,7 +9390,7 @@
       ],
       "optimizationBailout": [],
       "depth": 3,
-      "source": "import _classCallCheck from\"@babel/runtime/helpers/classCallCheck\";import _createClass from\"@babel/runtime/helpers/createClass\";import _inherits from\"@babel/runtime/helpers/inherits\";import _possibleConstructorReturn from\"@babel/runtime/helpers/possibleConstructorReturn\";import _getPrototypeOf from\"@babel/runtime/helpers/getPrototypeOf\";function _createSuper(Derived){var hasNativeReflectConstruct=_isNativeReflectConstruct();return function _createSuperInternal(){var Super=_getPrototypeOf(Derived),result;if(hasNativeReflectConstruct){var NewTarget=_getPrototypeOf(this).constructor;result=Reflect.construct(Super,arguments,NewTarget);}else{result=Super.apply(this,arguments);}return _possibleConstructorReturn(this,result);};}function _isNativeReflectConstruct(){if(typeof Reflect===\"undefined\"||!Reflect.construct)return false;if(Reflect.construct.sham)return false;if(typeof Proxy===\"function\")return true;try{Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],function(){}));return true;}catch(e){return false;}}import React,{Component}from'react';import'./app.css';import logo from'./logo.png';var App=/*#__PURE__*/function(_Component){_inherits(App,_Component);var _super=_createSuper(App);function App(){_classCallCheck(this,App);return _super.apply(this,arguments);}_createClass(App,[{key:\"render\",value:function render(){return/*#__PURE__*/React.createElement(\"div\",{className:\"App\"},/*#__PURE__*/React.createElement(\"header\",{className:\"App-header\"},/*#__PURE__*/React.createElement(\"img\",{src:logo,className:\"App-logo\",alt:\"logo\"}),/*#__PURE__*/React.createElement(\"p\",null,\"Edit \",/*#__PURE__*/React.createElement(\"code\",null,\"src/App.js\"),\" and save to reload.\"),/*#__PURE__*/React.createElement(\"span\",null,\"Learn\",' ',/*#__PURE__*/React.createElement(\"a\",{className:\"App-link\",href:\"https://reactjs.org\",target:\"_blank\",rel:\"noopener noreferrer\"},\"React\"),' ',\"and\",' ',/*#__PURE__*/React.createElement(\"a\",{className:\"App-link\",href:\"https://react-static.js.org\",target:\"_blank\",rel:\"noopener noreferrer\"},\"React Static\"))));}}]);return App;}(Component);export default App;"
+      "source": "import _classCallCheck from\"@babel/runtime/helpers/classCallCheck\";import _createClass from\"@babel/runtime/helpers/createClass\";import _inherits from\"@babel/runtime/helpers/inherits\";import _possibleConstructorReturn from\"@babel/runtime/helpers/possibleConstructorReturn\";import _getPrototypeOf from\"@babel/runtime/helpers/getPrototypeOf\";function _createSuper(Derived){var hasNativeReflectConstruct=_isNativeReflectConstruct();return function _createSuperInternal(){var Super=_getPrototypeOf(Derived),result;if(hasNativeReflectConstruct){var NewTarget=_getPrototypeOf(this).constructor;result=Reflect.construct(Super,arguments,NewTarget);}else{result=Super.apply(this,arguments);}return _possibleConstructorReturn(this,result);};}function _isNativeReflectConstruct(){if(typeof Reflect===\"undefined\"||!Reflect.construct)return false;if(Reflect.construct.sham)return false;if(typeof Proxy===\"function\")return true;try{Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],function(){}));return true;}catch(e){return false;}}import React,{Component}from'react';import'./app.css';import logo from'./logo.png';var App=/*#__PURE__*/function(_Component){_inherits(App,_Component);var _super=_createSuper(App);function App(){_classCallCheck(this,App);return _super.apply(this,arguments);}_createClass(App,[{key:\"render\",value:function render(){return/*#__PURE__*/React.createElement(\"div\",{className:\"App\"},/*#__PURE__*/React.createElement(\"header\",{className:\"App-header\"},/*#__PURE__*/React.createElement(\"img\",{src:logo,className:\"App-logo\",alt:\"logo\"}),/*#__PURE__*/React.createElement(\"p\",null,\"Edit \",/*#__PURE__*/React.createElement(\"code\",null,\"src/App.js\"),\" CHANGING THIS TO TEST.\"),/*#__PURE__*/React.createElement(\"span\",null,\"Learn\",' ',/*#__PURE__*/React.createElement(\"a\",{className:\"App-link\",href:\"https://reactjs.org\",target:\"_blank\",rel:\"noopener noreferrer\"},\"React\"),' ',\"and\",' ',/*#__PURE__*/React.createElement(\"a\",{className:\"App-link\",href:\"https://react-static.js.org\",target:\"_blank\",rel:\"noopener noreferrer\"},\"React Static\"))));}}]);return App;}(Component);export default App;"
     },
     {
       "id": 8,
@@ -9416,9 +9416,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -9810,9 +9810,9 @@
       "chunks": [
         3
       ],
-      "issuer": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-      "issuerId": 44,
-      "issuerName": "../lib/bootstrapPlugins.js",
+      "issuer": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+      "issuerId": 80,
+      "issuerName": "../lib/bootstrapTemplates.js",
       "issuerPath": [
         {
           "id": 43,
@@ -9820,9 +9820,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         }
       ],
       "failed": false,
@@ -9881,9 +9881,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -9947,9 +9947,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -10018,9 +10018,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -10094,9 +10094,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -10160,9 +10160,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -10226,9 +10226,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -10302,9 +10302,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -10454,9 +10454,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -10535,9 +10535,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -10616,9 +10616,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -10702,9 +10702,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -10778,9 +10778,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -10854,9 +10854,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12126,9 +12126,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12188,9 +12188,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12250,9 +12250,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12312,9 +12312,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12374,9 +12374,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12431,9 +12431,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12493,9 +12493,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12555,9 +12555,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12617,9 +12617,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12674,9 +12674,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12736,9 +12736,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12803,9 +12803,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12875,9 +12875,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -12947,9 +12947,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13024,9 +13024,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13096,9 +13096,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13173,9 +13173,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13250,9 +13250,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13327,9 +13327,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13409,9 +13409,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13491,9 +13491,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13568,9 +13568,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13645,9 +13645,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13717,9 +13717,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13814,9 +13814,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13881,9 +13881,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -13948,9 +13948,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -14015,9 +14015,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -14072,9 +14072,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -14206,9 +14206,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -14271,9 +14271,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -14343,9 +14343,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -14400,9 +14400,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 44,
-          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 80,
+          "identifier": "C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-1-0!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-hot-loader\\webpack.js!C:\\Users\\necth\\OneDrive\\Desktop\\Itch\\Puzzle Bites Collection\\Github\\PuzzleBites.github.io\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 13,
@@ -16021,7 +16021,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 4,
-      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1671399412599\n      var cssReload = require(\"C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1671402630563\n      var cssReload = require(\"C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"hmr\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
     },
     {
       "id": 106,
@@ -16091,7 +16091,7 @@
       "name": "css C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-2-1!C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/node_modules/postcss-loader/src??postcss!C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/app.css",
       "index": 103,
       "index2": 98,
-      "size": 873,
+      "size": 921,
       "built": false,
       "optional": false,
       "prefetched": false,
@@ -16195,14 +16195,14 @@
           "rendered": true,
           "initial": true,
           "entry": true,
-          "size": 3453,
+          "size": 3549,
           "names": [
             "extract-css-chunks-webpack-plugin"
           ],
           "files": [
             "*"
           ],
-          "hash": "eb8d79684b37cecd44eb",
+          "hash": "8e60f18531bb53fe4fb7",
           "siblings": [],
           "parents": [],
           "children": [],
@@ -16214,7 +16214,7 @@
               "name": "C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-2-1!C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/node_modules/postcss-loader/src??postcss!C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/app.css",
               "index": 0,
               "index2": 1,
-              "size": 1060,
+              "size": 1156,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -16247,7 +16247,7 @@
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 0,
-              "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.id, \"body {\\n  margin: 0;\\n  padding: 0;\\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',\\n    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',\\n    sans-serif;\\n  -webkit-font-smoothing: antialiased;\\n  -moz-osx-font-smoothing: grayscale;\\n}\\n\\ncode {\\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\\n    monospace;\\n}\\n\\n.App {\\n  text-align: center;\\n}\\n\\n.App-logo {\\n  animation: App-logo-spin infinite 20s linear;\\n  height: 40vmin;\\n  pointer-events: none;\\n}\\n\\n.App-header {\\n  background-color: #282c34;\\n  min-height: 100vh;\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center;\\n  justify-content: center;\\n  font-size: calc(10px + 2vmin);\\n  color: white;\\n}\\n\\n.App-link {\\n  color: #61dafb;\\n}\\n\\n@keyframes App-logo-spin {\\n  from {\\n    transform: rotate(0deg);\\n  }\\n  to {\\n    transform: rotate(360deg);\\n  }\\n}\\n\", \"\"]);\n\n"
+              "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.id, \"body {\\r\\n  margin: 0;\\r\\n  padding: 0;\\r\\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',\\r\\n    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',\\r\\n    sans-serif;\\r\\n  -webkit-font-smoothing: antialiased;\\r\\n  -moz-osx-font-smoothing: grayscale;\\r\\n}\\r\\n\\r\\ncode {\\r\\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\\r\\n    monospace;\\r\\n}\\r\\n\\r\\n.App {\\r\\n  text-align: center;\\r\\n}\\r\\n\\r\\n.App-logo {\\r\\n  animation: App-logo-spin infinite 20s linear;\\r\\n  height: 40vmin;\\r\\n  pointer-events: none;\\r\\n}\\r\\n\\r\\n.App-header {\\r\\n  background-color: #282c34;\\r\\n  min-height: 100vh;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  align-items: center;\\r\\n  justify-content: center;\\r\\n  font-size: calc(10px + 2vmin);\\r\\n  color: white;\\r\\n}\\r\\n\\r\\n.App-link {\\r\\n  color: #61dafb;\\r\\n}\\r\\n\\r\\n@keyframes App-logo-spin {\\r\\n  from {\\r\\n    transform: rotate(0deg);\\r\\n  }\\r\\n  to {\\r\\n    transform: rotate(360deg);\\r\\n  }\\r\\n}\\r\\n\", \"\"]);\n\n"
             },
             {
               "id": 1,
@@ -16317,7 +16317,7 @@
           "name": "C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/node_modules/css-loader/dist/cjs.js??ref--4-oneOf-2-1!C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/node_modules/postcss-loader/src??postcss!C:/Users/necth/OneDrive/Desktop/Itch/Puzzle Bites Collection/Github/PuzzleBites.github.io/src/app.css",
           "index": 0,
           "index2": 1,
-          "size": 1060,
+          "size": 1156,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -16350,7 +16350,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 0,
-          "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.id, \"body {\\n  margin: 0;\\n  padding: 0;\\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',\\n    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',\\n    sans-serif;\\n  -webkit-font-smoothing: antialiased;\\n  -moz-osx-font-smoothing: grayscale;\\n}\\n\\ncode {\\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\\n    monospace;\\n}\\n\\n.App {\\n  text-align: center;\\n}\\n\\n.App-logo {\\n  animation: App-logo-spin infinite 20s linear;\\n  height: 40vmin;\\n  pointer-events: none;\\n}\\n\\n.App-header {\\n  background-color: #282c34;\\n  min-height: 100vh;\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center;\\n  justify-content: center;\\n  font-size: calc(10px + 2vmin);\\n  color: white;\\n}\\n\\n.App-link {\\n  color: #61dafb;\\n}\\n\\n@keyframes App-logo-spin {\\n  from {\\n    transform: rotate(0deg);\\n  }\\n  to {\\n    transform: rotate(360deg);\\n  }\\n}\\n\", \"\"]);\n\n"
+          "source": "exports = module.exports = require(\"../node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.id, \"body {\\r\\n  margin: 0;\\r\\n  padding: 0;\\r\\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',\\r\\n    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',\\r\\n    sans-serif;\\r\\n  -webkit-font-smoothing: antialiased;\\r\\n  -moz-osx-font-smoothing: grayscale;\\r\\n}\\r\\n\\r\\ncode {\\r\\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\\r\\n    monospace;\\r\\n}\\r\\n\\r\\n.App {\\r\\n  text-align: center;\\r\\n}\\r\\n\\r\\n.App-logo {\\r\\n  animation: App-logo-spin infinite 20s linear;\\r\\n  height: 40vmin;\\r\\n  pointer-events: none;\\r\\n}\\r\\n\\r\\n.App-header {\\r\\n  background-color: #282c34;\\r\\n  min-height: 100vh;\\r\\n  display: flex;\\r\\n  flex-direction: column;\\r\\n  align-items: center;\\r\\n  justify-content: center;\\r\\n  font-size: calc(10px + 2vmin);\\r\\n  color: white;\\r\\n}\\r\\n\\r\\n.App-link {\\r\\n  color: #61dafb;\\r\\n}\\r\\n\\r\\n@keyframes App-logo-spin {\\r\\n  from {\\r\\n    transform: rotate(0deg);\\r\\n  }\\r\\n  to {\\r\\n    transform: rotate(360deg);\\r\\n  }\\r\\n}\\r\\n\", \"\"]);\n\n"
         },
         {
           "id": 1,
