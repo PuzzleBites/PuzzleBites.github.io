@@ -1,10 +1,10 @@
 import './App.css';
-import SignIn from './components/sign-in';
+import LinkerGroup from './components/linker-group';
 
 function App() {
   return (
     <div className="App">
-      <SignIn></SignIn>
+      <LinkerGroup></LinkerGroup>
     </div>
   );
 }

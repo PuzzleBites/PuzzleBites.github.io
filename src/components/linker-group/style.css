@@ -1,8 +1,8 @@
 .ImgContainer {
     background-repeat: no-repeat !important;
     position: absolute;
-    width: 256vmin !important;
-    height: 256vmin !important;
+    width: 100% !important;
+    height: 100% !important;
     background-position: center;
     background-size: cover;
     top: 50%;
@@ -16,8 +16,8 @@
 .DarkOverlayContainer {
     background-repeat: no-repeat !important;
     position: absolute;
-    width: 150% !important;
-    height: 150% !important;
+    width: 100% !important;
+    height: 100% !important;
     background: rgba(0, 0, 0, 0.75);
     background-position: center;
     background-size: cover;
@@ -28,6 +28,8 @@
 }
 
 .Button {
+    margin-top: 4px !important;
+    margin-bottom: 4px !important;
     height: 64px;
     color: white !important;
     background-color: rgba(0, 0, 0, 0.65) !important;
@@ -38,7 +40,7 @@
 /* Increase the specificity */
 .Button:hover {
     background-color: rgba(0, 0, 0, 1) !important;
-    transform: scale(1.1,1.1) !important;
+    transform: scale(1.05,1.05) !important;
 }
 
 .Box {
