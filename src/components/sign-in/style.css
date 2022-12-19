@@ -1,0 +1,58 @@
+.ImgContainer {
+    background-repeat: no-repeat !important;
+    position: absolute;
+    width: 256vmin !important;
+    height: 256vmin !important;
+    background-position: center;
+    background-size: cover;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    filter: blur(32px);
+    z-index: -1;
+    opacity: 0.5;
+}
+
+.DarkOverlayContainer {
+    background-repeat: no-repeat !important;
+    position: absolute;
+    width: 150% !important;
+    height: 150% !important;
+    background: rgba(0, 0, 0, 0.75);
+    background-position: center;
+    background-size: cover;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    z-index: -1;
+}
+
+.Button {
+    height: 64px;
+    color: white !important;
+    background-color: rgba(0, 0, 0, 0.65) !important;
+    transform: scale(1,1) !important;
+    transition: 0.15s cubic-bezier(0.68, -0.6, 0.32, 1.6) !important;
+}
+
+/* Increase the specificity */
+.Button:hover {
+    background-color: rgba(0, 0, 0, 1) !important;
+    transform: scale(1.1,1.1) !important;
+}
+
+.Box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 26%;
+    margin-right: 26%;
+    margin-top: 64px;
+}
+
+@media all and (orientation:portrait) {
+    .Box {
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+}
