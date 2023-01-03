@@ -29,12 +29,12 @@ const options = {
             href: "https://puzzlebitescollection.itch.io/"
         },
         {
-            name: "A Tavern's Apprentice - itch.io",
+            name: "A Tavern's Apprentice",
             href: "https://puzzlebitescollection.itch.io/a-taverns-apprentice"
         },
         {
-            name: "A Tavern's Apprentice - gamejolt",
-            href: "https://gamejolt.com/games/a-taverns-apprentice/769876"
+            name: "Rotational",
+            href: "https://puzzlebitescollection.itch.io/rotational"
         }
     ]
 }
